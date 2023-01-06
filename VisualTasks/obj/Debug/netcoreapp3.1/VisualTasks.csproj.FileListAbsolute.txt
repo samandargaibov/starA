@@ -1,0 +1,14 @@
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\bin\Debug\netcoreapp3.1\VisualTasks.exe
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\bin\Debug\netcoreapp3.1\VisualTasks.deps.json
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\bin\Debug\netcoreapp3.1\VisualTasks.runtimeconfig.json
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\bin\Debug\netcoreapp3.1\VisualTasks.runtimeconfig.dev.json
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\bin\Debug\netcoreapp3.1\VisualTasks.dll
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\bin\Debug\netcoreapp3.1\VisualTasks.pdb
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.csproj.AssemblyReference.cache
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.AssemblyInfoInputs.cache
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.AssemblyInfo.cs
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.csproj.CoreCompileInputs.cache
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.dll
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.pdb
+C:\Users\samandarrg\source\repos\VisualTasks\VisualTasks\obj\Debug\netcoreapp3.1\VisualTasks.genruntimeconfig.cache
